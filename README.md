@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KUNGHEN
+- 👋 Hi, I’m KUNGHEN
 - 👀 I’m interested in National Cheng Kung University
-- 🌱 I’m currently learning coding for pyhon Latex Vscode
+- 🌱 I’m currently learning coding for pyhon Latex Vscode ML
 - 💞️ I’m looking to collaborate on lab teammate
 
 <!---
